@@ -1,0 +1,1 @@
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Victor Rocha](https://www.linkedin.com/in/victor-rocha-600a2720a)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
